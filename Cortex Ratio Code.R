@@ -1,7 +1,11 @@
 library(ggplot2)
+citation("ggplot2")
 library(googlesheets4)
+citation("googlesheets4")
 library(ggthemes)
+citation("ggthemes")
 library(dplyr)
+citation("dplyr")
 
 ### Lithic Analysis functions
 CoreSurfaceArea <- function(NYCORES, method = "Scalene"){
