@@ -1,8 +1,8 @@
 ﻿ID,Context,RM,LENGTH_cm,THICKNESS_cm,WIDTH_cm,MASS_g,CORTEX_PERC
-Ny15-132,Local,carbonitite,8.127,3.324,6.066,222,55
-343,Local,carbonitite,4.29,1.404,3.105,16.75,65
-824,Local,carbonitite,4.7,1.157,3.014,17.03,90
-1352,Local,carbonitite,5.988,1.781,5.957,53.13,100
+Ny15-132,Local,Homa carbonatite,8.127,3.324,6.066,222,55
+343,Local,Homa carbonatite,4.29,1.404,3.105,16.75,65
+824,Local,Homa carbonatite,4.7,1.157,3.014,17.03,90
+1352,Local,Homa carbonatite,5.988,1.781,5.957,53.13,100
 1665,Local,feldspar porphery,5.267,1.28,4.314,24.75,20
 Ny18-4,Local,fenetize rhyolite,2.861,1.06,1.638,4.88,0
 Ny16-41,Local,fenetize rhyolite,3.48,0.714,2.189,4.66,0
@@ -92,7 +92,7 @@ Ny12-71,Nonlocal,Chert,5.06,1.002,3.192,14.02,0
 NY15-28,Nonlocal,Chert,4.899,1.679,4.334,24.98,50
 NY15-62,Nonlocal,flow banded rhyolite,3.435,0.674,2.13,7.73,8
 ny15-137,Nonlocal,granite,2.348,0.9,1.607,3.37,100
-ny16-40,Nonlocal,microgranite,5.44,1.698,4.38,36.25,25
+ny16-40,Nonlocal,fine-grained granite,5.44,1.698,4.38,36.25,25
 211,Nonlocal,Nyanzian rhyolite,5.18,1.45,4.46,34.3,20
 Ny17-23,Nonlocal,Nyanzian rhyolite,3.495,1.239,2.057,11.69,40
 928,Nonlocal,Nyanzian rhyolite,1.98,0.96,1.59,1.49,50
@@ -267,8 +267,8 @@ nY15-133,Nonlocal,Quartz,2.97,0.873,1.865,3.86,100
 1249,Nonlocal,Quartz,2.096,0.844,1.906,3.15,100
 NY23-28,Nonlocal,Quartz,5.095,2.736,3.744,44.1,100
 Ny18-5,Nonlocal,Quartz,6.988,1.999,5.151,79,100
-1367,Nonlocal,red felsite,4.424,1.071,3.236,8.15,0
-NY22-75,Nonlocal,red felsite,4.069,1.111,3.111,13.85,40
-NY15-150,Nonlocal,red felsite,2.632,0.556,1.541,3.47,100
-694,Nonlocal,red felsite,2.222,1.042,1.699,4.05,100
+1367,Nonlocal,Bukoban felsite,4.424,1.071,3.236,8.15,0
+NY22-75,Nonlocal,Bukoban felsite,4.069,1.111,3.111,13.85,40
+NY15-150,Nonlocal,Bukoban felsite,2.632,0.556,1.541,3.47,100
+694,Nonlocal,Bukoban felsite,2.222,1.042,1.699,4.05,100
 674,Local,fenetize rhyolite,4.216,1.707,3.189,27.0,50
