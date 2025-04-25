@@ -12,7 +12,7 @@ NY16-137,Local,fenetize rhyolite,2.97,0.638,3.083,8.26,0
 1530,Local,fenetize rhyolite,4.317,1.228,3.333,17.13,0
 NY17-116,Local,fenetize rhyolite,4.461,0.91,4.685,15.53,0
 7,Local,fenetize rhyolite,2.91,1.039,2.358,5.87,5
-NY15-74,Local,fenetize rhyolite,3.939,1.386,2.199,10.96,6
+NY15-74,Local,fenetize rhyolite,3.939,1.386,2.199,10.96,5
 90,Local,fenetize rhyolite,3.043,2.042,1.755,7.22,10
 Ny17-78,Local,fenetize rhyolite,4.083,0.811,3.873,12.99,10
 NY15-75,Local,fenetize rhyolite,5.937,1.927,5.697,74.6,10
@@ -271,3 +271,4 @@ Ny18-5,Nonlocal,Quartz,6.988,1.999,5.151,79,100
 NY22-75,Nonlocal,red felsite,4.069,1.111,3.111,13.85,40
 NY15-150,Nonlocal,red felsite,2.632,0.556,1.541,3.47,100
 694,Nonlocal,red felsite,2.222,1.042,1.699,4.05,100
+674,Local,fenetize rhyolite,4.216,1.707,3.189,27.0,50
